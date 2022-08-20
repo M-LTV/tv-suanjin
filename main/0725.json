@@ -3,7 +3,7 @@
 
 {
 ## spider
-"spider":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/index.html;md5;EACF331F0FFC35D4B482F1D15A887D3B",
+"spider":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/index.jar;md5;2FFB52D34C895EBD735EDDC804B3D2B9",
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9zdWFuamluL3R2L3Jhdy9tYXN0ZXIvbWFpbi90di9iYy50eHQ="]}]}],
 
