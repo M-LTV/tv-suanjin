@@ -8,7 +8,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9zdWFuamluL3R2L3Jhdy9tYXN0ZXIvbWFpbi90di9iYy50eHQ="]}]}],
 
 "sites":[
-{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
+{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},    
+//{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 //{"key": "csp_Kmys","name":"🐞酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"}, 
 {"key":"csp_kuaikan","name":"🐞快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"360_spider","name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
