@@ -39,7 +39,6 @@
 {"key":"csp_剧荒"       ,"name":"🐞剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Czsapp"     ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊"           ,"name":"🐞小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "Lezhu_spider","name": "🐞乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/Lezhu.jar;md5;1c1482ff646cc40e1f924ebe320822bc"},
 {"key":"Libvio"         ,"name":"🐞Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider"   ,"name":"🐞看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"Smdyy_spider"   ,"name":"🐞神马影视","api": "csp_Smdyy","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
