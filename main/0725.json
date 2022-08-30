@@ -86,6 +86,7 @@
 {"key":"csp_biubiu_F7好看剧","name":"🐞F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/F7好看剧.json"}, 
 
 ## XPath系列 
+{"key": "csp_biubiu_voflix","name": "voflix(XP)", "type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/voflix.json"},
 {"key":"csp_xpath_独播库","name":"🐞独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/duboku.json"}, 
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/huya2.json"}, 
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/kuqimv.json"}, 
