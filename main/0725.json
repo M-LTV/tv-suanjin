@@ -28,6 +28,7 @@
 {"key": "9E03","name": "🐞9E国语", "type":3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/9E03.jar;md5;b56df25d618ad76bc8aeb80b181a2685"}, 
 {"key":"csp_biubiu_米来影视","name":"🐞米来影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/米来影视.json"}, 
 {"key":"csp_biubiu_宝仙HD","name": "🐞宝仙影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/baoxian.json"}, 
+{"key": "csp_biubiu_voflix","name": "voflixHD(XP)", "type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/voflix.json"},
 {"key":"csp_SP293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/Bili/哔哩套餐.json","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/0828.jpg;md5;1c1482ff646cc40e1f924ebe320822bc"}, 
 {"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/Bili/儿童乐园.json","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/0828.jpg;md5;1c1482ff646cc40e1f924ebe320822bc"}, 
@@ -41,6 +42,8 @@
 {"key":"csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete" ,"name":"🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_hbys","name":"🐞简影","api":"csp_JianYing","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
+{"key": "csp_Alist1","name": "🐞Alist","type":3,"api": "csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
+
 //{"key":"Ikan" ,"name":"🐞爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nfyun" ,"name":"🐞Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq" ,"name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -56,22 +59,7 @@
 {"key":"追剧喵","name":"🐞追剧喵","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY" ,"name":"🐞3EDY(EXO)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yj1211","name":"🐞直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key": "Gitcafe","name":"🐞小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-
-{"key":"AliPS","name":"🐞盘搜(仅支持搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-
-{"key":"FindZY","name":"🐞找资源(仅支持搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-
-{"key":"csp_Yiso","name":"🐞易搜(仅支持搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-
-{"key": "push_agent","name":"🐞推送(仅支持阿里推送/磁力推送)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
-
-{"key":"csp_xpath_cls","name": "🐞磁力搜索(仅支持搜索)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/磁搜.json"},
-
-{"key": "csp_Alist1","name": "🐞Alist","type":3,"api": "csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
-{"key": "T4","name": "T4(仅支持搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch":1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"},
-
 
 
 
@@ -86,7 +74,6 @@
 {"key":"csp_biubiu_F7好看剧","name":"🐞F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/F7好看剧.json"}, 
 
 ## XPath系列 
-{"key": "csp_biubiu_voflix","name": "voflix(XP)", "type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/voflix.json"},
 {"key":"csp_xpath_独播库","name":"🐞独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/duboku.json"}, 
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/huya2.json"}, 
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/kuqimv.json"}, 
@@ -97,7 +84,16 @@
 {"key":"csp_xpath_jbb","name":"🐞剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/jubaibai.json"}, 
 {"key":"csp_xpath_Jumi","name":"🐞剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/Jumi.json"}, 
 {"key":"csp_xpath_lranc","name":"🐞天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/lranc.json"}, 
-{"key":"csp_xpath_yanetflix","name":"🐞鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/yanet.json"} 
+{"key":"csp_xpath_yanetflix","name":"🐞鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/yanet.json"},
+## 搜索系列 
+
+
+{"key":"AliPS","name":"🐞盘搜(仅支持搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
+{"key":"FindZY","name":"🐞找资源(仅支持搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
+{"key":"csp_Yiso","name":"🐞易搜(仅支持搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
+{"key": "push_agent","name":"🐞推送(仅支持阿里推送/磁力推送)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/ali.jar;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
+{"key":"csp_xpath_cls","name": "🐞磁力搜索(仅支持搜索)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/磁搜.json"},
+{"key": "T4","name": "T4(仅支持搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch":1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
 
 "parses":[
