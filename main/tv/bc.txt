@@ -63,7 +63,7 @@ CCTV-风云音乐,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103
 CCTV-兵器科技,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8#http://live.tvfix.org/hls/cctvbqkjhd.m3u8
 CCTV-卫生健康,http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8#http://live.tvfix.org/hls/cctvwsjkhd.m3u8
 
-huya(ljk播放器),#genre#
+虎牙动画片,#genre#
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
@@ -80,7 +80,7 @@ huya(ljk播放器),#genre#
 小时候玩不起的超帅玩具,https://epg.112114.xyz/huya/26355832
 成龍历险记·社会我阿福乌鸦坐飞机,https://epg.112114.xyz/huya/11352946
 
-Bilibili(ljk播放器),#genre#
+哔哩动画片,#genre#
 24小时连播蓝胖子,http://zzy789.xyz/bili.php?id=482946
 【哆啦A梦】旧版全集,http://zzy789.xyz/bili.php?id=1717236
 全集哆啦A梦大山版24小时轮播,http://zzy789.xyz/bili.php?id=346400
@@ -148,7 +148,7 @@ Bilibili(ljk播放器),#genre#
 LexBurner,http://zzy789.xyz/bili.php?id=11365
 猫大人,http://zzy789.xyz/bili.php?id=723
 
-douyu(ljk播放器),#genre#
+斗鱼动画片,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 五一节快乐,http://epg.112114.xyz/douyu/7528160
