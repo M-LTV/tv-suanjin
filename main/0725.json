@@ -160,7 +160,6 @@
 {"name":"嗅探思古","type":0,"url":"https://jsap.attakids.com/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 {"name":"嗅探啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 {"name":"嗅探playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
-{"name":"嗅探椰子","type":0,"url":"http://jx.gbxy.net.cn/?url="},
 {"name":"嗅探全民1","type":0,"url":"https://jx.quanmingjiexi.com/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 {"name":"嗅探parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"嗅探人迷","type":0,"url":"https://jx.blbo.cc:4433/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
