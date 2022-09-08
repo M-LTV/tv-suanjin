@@ -28,6 +28,7 @@
 {"key":"csp_biubiu_voflix","name":"🐞voflixHD(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/voflix.json"},
 {"key":"csp_xpath_112","name":"🐞工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/gongreng.json"},
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/AB影院.json"},
+{"key": "csp_xpath_旧梦影视","name": "旧梦影视(XPMF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/旧梦影视.json"},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"小熊","name":"🐞小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
