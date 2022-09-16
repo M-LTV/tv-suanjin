@@ -46,7 +46,7 @@
 {"key":"csp_Zxzj","name":"🌤在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"🌤剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Nfyun" ,"name":"🌤Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/tv/raw/master/JAR/xl5.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},
-{"key":"Gitcafe","name":"🌤小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"Gitcafe","name":"🌤小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd"},
 {"key":"优众影视","name":"🌤优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key": "csp_XYQBiu_凌云ys","name": "🌤凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/suanjin/tv/raw/master/main/MaooXP/凌云影视.json"},
 //{"key":"csp_xpath_UM","name":"🌤UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXP/UM.json"},
