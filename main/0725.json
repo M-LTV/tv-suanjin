@@ -116,7 +116,7 @@
 {"key":"csp_biubiu_F7好看剧","name":"🌤F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXB2/F7好看剧.json"},
 //{"key":"csp_biubiu_米来影视","name":"🌤米来影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXB2/米来影视.json"},
 {"key":"csp_biubiu_宝仙HD","name":"🌤宝仙影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXB2/baoxian.json"},
-
+{"key":"mtv_xb_五一看剧","name":"🌤五一看剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXB2/51kanju.json"},
 ##XPath系列
 {"key": "csp_XYQBiu_万能YY","name": "🌤万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/suanjin/tv/raw/master/main/MaooXP/万能影院.json"},
 {"key":"csp_xpath_独播库","name":"🌤独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/suanjin/tv/raw/master/main/MaooXP/duboku.json"},
