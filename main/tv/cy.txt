@@ -1,9 +1,5 @@
-cloud|🐬,#genre#
-四海钓鱼,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6319CF46U3191204BK7841565FI753EC76FP2BF4M3373354V0Z339DDW1712DE7E2FA93FF0&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000229
-快乐垂钓,http://qspyx.7766.org:9999/tsfile/live/1116_1.m3u8
 
 cloud|🐿️,#genre#
-
 安徽卫视高清,https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=096
 鞍山新闻综合,https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=274
 百姓健康,https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=219
@@ -145,7 +141,6 @@ now新闻,https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 now直播,https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
 
 cloud|港台,#genre#
-
 爱尔达体育1,rtmp://59.124.75.138/sat/md011
 爱尔达体育2,rtmp://59.124.75.150/sat/md051
 爱尔达体育2,rtmp://59.124.75.138/sat/md051
@@ -302,7 +297,6 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 
 cloud|轮播,#genre#
-
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 成龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
@@ -366,12 +360,8 @@ TVB32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344
 TVB40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
 
 cloud|央视,#genre#
-
-
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
-
 CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
@@ -416,7 +406,6 @@ CGTN西班牙语,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20101525
 CGTN英闻,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 
 cloud|卫视,#genre#
-
 安多卫视,http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8?zweimd
 安多卫视,http://111.20.33.70/PLTV/88888893/224/3221226228/index.m3u8
 安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
@@ -719,8 +708,6 @@ cloud|卫视,#genre#
 浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
 
 cloud|数字,#genre#
-
-
 黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 黑莓动画,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
@@ -786,7 +773,6 @@ cloud|数字,#genre#
 潮妈辣婆,http://39.137.49.76:8080/PLTV/88888888/224/3221225708/index.m3u8?
 潮妈辣婆,http://111.40.196.36/PLTV/88888888/224/3221225680/index.m3u8
 潮妈辣婆,http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
-
 第一财经,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 第一剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
@@ -960,8 +946,6 @@ NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212256
 SiTV动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 
 cloud|少儿,#genre#
-
-
 奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
@@ -1062,7 +1046,6 @@ CCTV14,http://39.137.49.76:8080/PLTV/88888888/224/3221225639/index.m3u8?
 CCTV14,http://219.140.56.34:3333/tsfile/live/0014_1.m3u8
 
 cloud|女团,#genre#
-
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 韩国动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
@@ -1264,7 +1247,6 @@ cloud|女团,#genre#
 
 
 cloud|音乐,#genre#
-
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257647.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 阿衣莫,http://mobi.kuwo.cn/tmevideo/tme7020227.mp4
