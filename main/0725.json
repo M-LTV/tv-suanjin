@@ -5,7 +5,7 @@
 ##spider
 "spider":"https://gitee.com/suanjin/tv/raw/master/JAR/888.png;md5;7bf81eb29f54645e289066ef7071a76c",
 #直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vc3Vhbmppbi90di9yYXcvbWFzdGVyL21haW4vdHYvY3kudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vc3Vhbmppbi90di9yYXcvbWFzdGVyL21haW4vdHYvYmMudHh0"]}]}],
 
 "sites":[
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/tv/raw/master/JAR/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
