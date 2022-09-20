@@ -259,6 +259,7 @@
                 android:textColor="@color/color_FFFFFF"
                 android:textSize="@dimen/ts_18" />
         </LinearLayout>
+ //播放按钮改为横向滚动视图UI的排版     
         <HorizontalScrollView
             android:scrollbars="none"
             android:layout_width="wrap_content"
