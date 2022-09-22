@@ -3,13 +3,16 @@
 
 {
 ##spider
-"spider":"https://gitee.com/suanjin/tv/raw/master/JAR/888.png;md5;7bf81eb29f54645e289066ef7071a76c",
+"spider":"https://gitee.com/suanjin/tv/raw/master/JAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65",
 #直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcTM3ODA4NTA4OS90dmIvLS9yYXcvbWFzdGVyL3R2L2NiLnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/tv/raw/master/JAR/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+
+{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu771","name":"🌤酷云影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/tv/raw/master/JAR/kuyunmogai.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
+{"key":"csp_AppTT","name":"🌤图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bd","name":"🌤哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🌤兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kmys","name":"🌤酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/tv/raw/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"快看","name":"🌤快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
