@@ -74,7 +74,6 @@
 
 
 ##XYQ系列
-{"key":"csp_xBPQ_荐片","name":"🌤荐片影视(XBPQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/MaooXB2/荐片.json","jar":"https://agit.ai/suanjin/tv/raw/branch/master/JAR/xBPQ0927.jar;md5;8fd8e0f9c947f937e5b3f1e7d7d58bee"},
 {"key":"csp_XYQHiker","name":"🌤冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/MaooXB2/冷曦.json","jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/XYQPlugin_0915.jar;md5;29a1e2b51c44f3f87c06500e55802ff4"},
 {"key":"csp_XYQHiker_氢视频","name":"🌤氢视频","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/MaooXB2/氢视频.json","jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/XYQPlugin_0917.jar;md5;1b39eb5462a4ecc6ad799549c34d2f0d"},
 
