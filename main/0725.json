@@ -4,7 +4,7 @@
 
 "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcTM3ODA4NTA4OS90dmIvLS9yYXcvbWFzdGVyL3R2L2NiLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3N1YW5qaW4vdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbWFpbi90di9jYi50eHQ="]}]}],
 
 "sites":[
 {"key":"T4_douban","name":"🌤影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
