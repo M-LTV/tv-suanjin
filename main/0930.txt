@@ -1,4 +1,4 @@
-//配置地址-->https://codeberg.org/suanjin/tv/raw/branch/master/main/0725.json
+//配置地址-->https://codeberg.org/suanjin/tv/raw/branch/master/main/0930.txt
 
 {
 
