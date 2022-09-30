@@ -9,7 +9,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvc3Vhbmppbi90di9yYXcvYnJhbmNoL21hc3Rlci9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "sites":[
-{"key":"T4_douban","name":"🌤影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4a","name":"🌤影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🌤293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1"},
 {"key":"csp_AppTT","name":"🌤图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -142,7 +142,6 @@
 {"key":"push_agent","name":"🌤推送(仅支持阿里推送/磁力推送)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/suanjin/tv/raw/branch/master/main/MaooXB2/alitoken.json"},
 {"key":"csp_xpath_cls","name":"🌤磁力搜索(仅支持搜索)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/suanjin/tv/raw/branch/master/main/MaooXB2/MaooXB2/磁搜.json"},
 {"key":"cl_bdys","name":"🌤哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://codeberg.org/suanjin/tv/raw/branch/master/main/MaooXB2/bdyscl.json"},
-{"key":"T4a","name":"🌤T4聚合(仅支持搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4","name":"🌤T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
 
