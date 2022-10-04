@@ -2,22 +2,22 @@
 
 {
 
-"spider":"https://notabug.org/suanjin/tv/raw/master/TVJAR/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",  
-
+//"spider":"https://notabug.org/suanjin/tv/raw/master/TVJAR/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",  
+"spider":"https://notabug.org/suanjin/tv/raw/master/TVJAR/vod;md5;087914a45cc988d96581defbc3eeb2f4",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9zdWFuamluL3R2L3Jhdy9tYXN0ZXIvbWFpbi90di9jYi50eHQ="]}]}],
 
 "sites":[
 {"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_SP293","name":"☀️293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/suanjin/tv/raw/master/TVJAR/vod;md5;087914a45cc988d96581defbc3eeb2f4"},
+{"key":"csp_SP293","name":"☀️293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"☀️图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"☀️快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"☀️360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"☀️乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_QQ","name":"☀️腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"☀️爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"]},
+{"key":"csp_IQIYI","name":"☀️爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"],"jar":"https://notabug.org/suanjin/tv/raw/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
 {"key":"csp_MGTV","name":"☀️芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/suanjin/tv/raw/master/main/Bili/儿童乐园.json"},
 {"key":"dr_兔小贝","name":"🐯兔小贝","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
