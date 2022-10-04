@@ -16,7 +16,7 @@
 {"key":"快看","name":"☀️快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"☀️360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"☀️乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_QQ","name":"☀️腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350},
+{"key":"csp_QQ","name":"☀️腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"☀️爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"]},
 {"key":"csp_MGTV","name":"☀️芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/Bili/儿童乐园.json"},
