@@ -16,9 +16,9 @@
 {"key":"快看","name":"☀️快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"☀️360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"☀️乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_QQ","name":"☀️腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"☀️爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"],"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/gg0925.jar;md5;fc546c735827e5b3c2dfe91bfbe64350"},
-{"key":"csp_MGTV","name":"☀️芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"☀️腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
+{"key":"csp_IQIYI","name":"☀️爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"],"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
+{"key":"csp_MGTV","name":"☀️芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
 {"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/Bili/儿童乐园.json"},
 {"key":"dr_兔小贝","name":"🐯兔小贝","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"学习","name":"🐯学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/Bili/学习园地.json"},
@@ -27,7 +27,7 @@
 {"key":"csp_DiDuan","name":"☀️低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_小猫咪","name":"☀️小猫咪（JSON）","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_Bttwoo","name":"☀️2BT(SP)","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/2BT.jar;md5;2eec1ce94f1fc91e75cf240f23677037"},
-{"key":"youku","name":"☀️优酷视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["动画片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片"]},
+{"key":"youku","name":"☀️优酷视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["动画片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片"],"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
 //{"key":"北雁资源","name":"☀️北雁资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"小苹果","name":"☀️苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_voflix","name":"☀️voflixHD(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/suanjin/tv/raw/branch/master/main/MaooXP/voflix.json"},
@@ -68,7 +68,7 @@
 
 
 ##官系列
-{"key":"PpTV","name":"☀️PPTV视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["动画片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片"]},
+{"key":"PpTV","name":"☀️PPTV视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["动画片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片"],"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/999.png;md5;e787fc9c9771e21fda57374ef3b64a65"},
 {"key":"忆梦资源","name":"☀️忆梦资源(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"天堂资源","name":"☀️天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"江湖官采","name":"☀️江湖官采(官)","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
