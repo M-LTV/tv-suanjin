@@ -7,6 +7,13 @@
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9zdWFuamluL3R2L3Jhdy9tYXN0ZXIvbWFpbi90di9jYi50eHQ="]}]}],
 
+"rules": [
+  {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["/m3u8.php", "path="]},
+  {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
+],
+
 "sites":[
 {"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0"},
 {"key":"csp_SP293","name":"☀️293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1"},
