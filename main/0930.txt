@@ -4,7 +4,7 @@
 {
  //"spider":"https://suanjin.github.io/tv/TVJAR/Yoursmile.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
  "spider":"https://suanjin.github.io/tv/TVJAR/Your.jar;md5;7151e9617fa11e13823a8dca88eef2f0", 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9zdWFuamluL3R2L3Jhdy9tYXN0ZXIvbWFpbi90di9jYi50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby90di9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
