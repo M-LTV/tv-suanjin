@@ -207,7 +207,15 @@ export function pdfh(html, parse, base_url) {
     if (!parse || !parse.trim()) {
         return ''
     }
+    let eleFind = typeof html === 'object';
     let option = undefined;
+    if (eleFind && parse.startsWith('body&&')) {
+        parse = parse.substr(6);
+        if (parse.indexOf('&&') < 0) {
+            option = parse.trim();
+            parse = '*=*';
+        }
+    }
     if (parse.indexOf('&&') > -1) {
         let sp = parse.split('&&');
         option = sp[sp.length - 1];
@@ -226,8 +234,8 @@ export function pdfh(html, parse, base_url) {
         parse = sp.join(' ');
     }
     let result = '';
-    const $ = cheerio.load(html);
-    let ret = $(parse);
+    const $ = eleFind ? html.rr : cheerio.load(html);
+    let ret = eleFind ? ((parse === '*=*' || $(html.ele).is(parse)) ? html.ele : $(html.ele).find(parse)) : $(parse);
     if (option) {
         if (option === 'Text') {
             result = $(ret).text();
@@ -255,6 +263,7 @@ export function pdfa(html, parse) {
     if (!parse || !parse.trim()) {
         return [];
     }
+    let eleFind = typeof html === 'object';
     if (parse.indexOf('&&') > -1) {
         let sp = parse.split('&&');
         for (let i in sp) {
@@ -264,12 +273,12 @@ export function pdfa(html, parse) {
         }
         parse = sp.join(' ');
     }
-    const $ = cheerio.load(html);
-    let ret = $(parse);
+    const $ = eleFind ? html.rr : cheerio.load(html);
+    let ret = eleFind ? ($(html.ele).is(parse) ? html.ele : $(html.ele).find(parse)) : $(parse);
     let result = [];
     if (ret) {
         ret.each(function (idx, ele) {
-            result.push($(ele).toString());
+            result.push({ rr: $, ele: ele });
         });
     }
     return result;
