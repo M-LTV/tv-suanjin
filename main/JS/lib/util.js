@@ -1,8 +1,8 @@
-import 'assets://js/lib/uri.min.js'
-import cheerio from 'assets://js/lib/cheerio.min.js';
-import 'assets://js/lib/crypto-js.js'
-import 'assets://js/lib/dayjs.min.js'
-import _ from 'assets://js/lib/underscore-esm-min.js'
+import 'assets://JS/lib/uri.min.js'
+import cheerio from 'assets://JS/lib/cheerio.min.js';
+import 'assets://JS/lib/crypto-js.js'
+import 'assets://JS/lib/dayjs.min.js'
+import _ from 'assets://JS/lib/underscore-esm-min.js'
 
 var charStr = 'abacdefghjklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ0123456789';
 export function randIndex(min, max, i) {
