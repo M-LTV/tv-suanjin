@@ -2,7 +2,6 @@
 
 
 {
- //"spider":"https://suanjin.github.io/tv/TVJAR/Yoursmile.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
  "spider":"https://suanjin.github.io/tv/TVJAR/shenqi.jar;md5;f4ba0b967a9fad08afa06d198e3b796d", 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby90di9tYWluL3R2L2NiLnR4dA=="]}]}],
 
