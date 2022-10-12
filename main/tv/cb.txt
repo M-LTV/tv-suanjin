@@ -106,8 +106,7 @@ Eurosport,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/str
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-👶少儿频道,#genre#
-动漫秀场[1920*1080],http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+👶｜少儿频道,#genre#
 南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
@@ -635,7 +634,7 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 天津卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
 黑龙江卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 
-🌴🌴湖南,#genre#
+💎｜�湖南,#genre#
 金鹰纪实,http://39.135.32.24:6610/000000001000/1000000002000011724/1.m3u8?xtkg?zhund
 金鹰纪实,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080P-jinyingjishi/1.m3u8;{User-Agent@0151?zhund}
 金鹰纪实,http://39.135.32.8:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zhund
@@ -714,8 +713,7 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 桑植新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8?zhund
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
 靖州综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_9Fp0NK.m3u8?zhund
-🔫🧨浙江,#genre#
-浙江,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-zhejiangstv/1.m3u8?IASHttpSessionId=OTT?zzhed
+💎｜浙江,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
