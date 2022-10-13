@@ -62,7 +62,7 @@
 {"key":"csp_Anime1","name":"☀️日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"☀️Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Wmkk","name":"☀️完美看看","api":"csp_Wmkk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
- {"key": "csp_xpath_qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/tv/main/MaooXP/516-qiumi.js"}, 
+ {"key": "csp_xpath_qiumi","name": "☀️球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/tv/main/MaooXP/516-qiumi.js"}, 
 {"key":"音乐","name":"☀️音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/tv/main/Bili/音乐现场.json"},
 {"key":"热舞","name":"☀️女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/tv/main/Bili/女团热舞.json"},
 {"key":"戏曲","name":"☀️戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/tv/main/Bili/戏曲合集.json"},
