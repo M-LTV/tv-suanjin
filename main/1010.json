@@ -64,7 +64,7 @@
 {"key": "csp_XYQBiu_凌云ys","name": "🌼凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://suanjin.github.io/main/MaooXP/凌云影视.json"},
 {"key": "csp_XYQBiu_聚合短视频","name":"🌼聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXP/聚合短视频.js"},
 {"key":"mjxq_spider","name":"🌼美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"☀🌼日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Anime1","name":"🌼日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🌼Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Wmkk","name":"☀️完美看看","api":"csp_Wmkk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
  {"key": "csp_xpath_qiumi","name": "🌼球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/MaooXP/516-qiumi.js"}, 
