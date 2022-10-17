@@ -77,7 +77,18 @@
 {"key":"csp_Bttoo","name":"🌼两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"🌼直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
-
+##py系列
+{"key": "py_lezhu","name": "🌼乐猪影视源┃PY","type": 3,"api": "py_lezhu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_lezhu.py"},
+{"key": "py_kuaikan","name": "🌼快看影视源┃PY","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_kuaikan.py"},
+{"key": "py_czspp","name": "🌼厂长资源┃PY","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_czspp.py"},
+{"key": "py_alist","name": "🌼Alist┃PY","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/ali/py_alist.py"},
+{"key": "push_agent","name": "🌼阿里盘┃PY","type": 3,"api": "py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/ali/py_ali.py"},
+{"key": "py_gitcafe","name": "🌼小纸条┃PY","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_gitcafe.py"},
+{"key": "py_zhaozy","name": "🌼找资源┃PY","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_zhaozy.py"},
+{"key": "py_pansou","name": "🌼盘搜源┃PY","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_pansou.py"},
+{"key": "py_yiso","name": "🌼易搜源┃PY","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_yiso.py"},
+{"key": "py_douyu","name": "🌼斗鱼直播┃PY","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_douyu.py"},
+ 
 ##DRPY系列
 {"key" : "drpy_js_360影视","name" : "🌼360影视[DRPY]","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/360影视.js"},
 {"key" : "drpy_js_低端","name" : "🌼低端[DRPY]","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/ddys.js"},
