@@ -1,13 +1,14 @@
 #coding=utf-8
 #!/usr/bin/python
 import sys
-sys.path.append('..') 
+sys.path.append('..')
 from base.spider import Spider
 import json
+import math
 
 class Spider(Spider):
 	def getName(self):
-		return "虎牙"
+		return "企鹅体育"
 	def init(self,extend=""):
 		pass
 	def isVideoFormat(self,url):
@@ -17,9 +18,16 @@ class Spider(Spider):
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"一起看": "一起看",
-			"三国杀": "三国杀",
-			"网游竞技": "网游竞技"
+			"全部": "",
+			"足球": "Football",
+			"篮球": "Basketball",
+			"NBA": "NBA",
+			"台球": "Billiards",
+			"搏击": "Fight",
+			"网排": "Tennis",
+			"游戏": "Game",
+			"其他": "Others",
+			"橄棒冰": "MLB"
 		}
 		classes = []
 		for k in cateManual:
@@ -35,19 +43,22 @@ class Spider(Spider):
 	def homeVideoContent(self):
 		result = {}
 		return result
+
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
-		url = 'http://live.yj1211.work/api/live/getRecommendByPlatformArea?platform=huya&size=20&area={0}&page={1}'.format(tid, pg)
+		url = 'https://live.qq.com/api/live/vlist?page_size=60&shortName={0}&page={1}'.format(tid, pg)
 		rsp = self.fetch(url)
 		content = rsp.text
 		jo = json.loads(content)
 		videos = []
-		vodList = jo['data']
+		vodList = jo['data']['result']
+		numvL = len(vodList)
+		pgc = math.ceil(numvL/15)
 		for vod in vodList:
-			aid = (vod['roomId']).strip()
-			title = vod['roomName'].strip()
-			img = vod['roomPic'].strip()
-			remark = (vod['categoryName']).strip()
+			aid = (vod['room_id'])
+			title = vod['room_name'].strip()
+			img = vod['room_src']
+			remark = (vod['game_name']).strip()
 			videos.append({
 				"vod_id": aid,
 				"vod_name": title,
@@ -56,22 +67,24 @@ class Spider(Spider):
 			})
 		result['list'] = videos
 		result['page'] = pg
-		result['pagecount'] = 9999
-		result['limit'] = 90
-		result['total'] = 999999
+		result['pagecount'] = pgc
+		result['limit'] = numvL
+		result['total'] = numvL
 		return result
+
 	def detailContent(self,array):
 		aid = array[0]
-		url = "http://live.yj1211.work/api/live/getRoomInfo?platform=huya&roomId={0}".format(aid)
+		url = "https://m.live.qq.com/{0}".format(aid)
 		rsp = self.fetch(url)
-		jRoot = json.loads(rsp.text)
-		jo = jRoot['data']
-		title = jo['roomName']
-		pic = jo['roomPic']
-		desc = str(jo['online'])
-		dire = jo['ownerName']
-		typeName = jo['categoryName']
-		remark = jo['categoryName']
+		html = self.cleanText(rsp.text)
+		if self.regStr(reg=r'\"show_status\":\"(\d)\"', src=html) == '1':
+			title = self.regStr(reg=r'\"room_name\":\"(.*?)\"', src=html)
+			pic = self.regStr(reg=r'\"room_src\":\"(.*?)\"', src=html)
+			typeName = self.regStr(reg=r'\"game_name\":\"(.*?)\"', src=html)
+			remark = self.regStr(reg=r'\"nickname\":\"(.*?)\"', src=html)
+			purl = self.regStr(reg=r'\"hls_url\":\"(.*?)\"', src=html)
+		else:
+			return {}
 		vod = {
 			"vod_id": aid,
 			"vod_name": title,
@@ -80,12 +93,12 @@ class Spider(Spider):
 			"vod_year": "",
 			"vod_area": "",
 			"vod_remarks": remark,
-			"vod_actor": '在线人数:' + desc,
-			"vod_director": dire,
-			"vod_content": ""
+			"vod_actor": '',
+			"vod_director":'',
+			"vod_content": ''
 		}
-		playUrl = '原画' + '${0}#'.format(aid)
-		vod['vod_play_from'] = '虎牙直播'
+		playUrl = '{0}${1}#'.format(typeName, purl)
+		vod['vod_play_from'] = '企鹅体育'
 		vod['vod_play_url'] = playUrl
 
 		result = {
@@ -94,26 +107,17 @@ class Spider(Spider):
 			]
 		}
 		return result
+
 	def searchContent(self,key,quick):
 		result = {}
 		return result
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
-
-		url = 'https://mp.huya.com/cache.php?m=Live&do=profileRoom&roomid={0}'.format(id)
-		rsp = self.fetch(url)
-		jRoot = json.loads(rsp.text)
-		jo = jRoot['data']
-		ja = jo['stream']['baseSteamInfoList'][0]['sStreamName']
-		url = 'http://txtest-xp2p.p2p.huya.com/src/' + ja + '.xs?ratio=4000'
-
+		url = id
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url
-		result["header"] = {
-			"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
-		}
-		result["contentType"] = 'video/x-flv'
+		result["header"] = ''
 		return result
 
 	config = {
@@ -122,11 +126,6 @@ class Spider(Spider):
 	}
 	header = {}
 
-	config = {
-		"player": {},
-		"filter": {}
-	}
-	header = {}
 	def localProxy(self,param):
 		action = {
 			'url':'',
