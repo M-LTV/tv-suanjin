@@ -21,7 +21,7 @@
 //{"key":"csp_SP293","name":"☀️293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🌼图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"🌼哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"快看","name":"☀️快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://suanjin.github.io/TVJAR/csp.jar;md5;673246c80b8bac03691c57aa8ea9d55a"},
+//{"key":"快看","name":"☀️快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://suanjin.github.io/TVJAR/csp.jar;md5;673246c80b8bac03691c57aa8ea9d55a"},
 {"key" : "drpy_js_快看","name" : "🌼快看[DRPY]","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/快看.js"},
  {"key":"360_spider","name":"🌼360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"🌼乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
