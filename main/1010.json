@@ -76,6 +76,8 @@
 
 ##DRPY系列
 {"key": "drpy_js_360影视","name": "☀️360影视[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/360影视.js"},
+{"key": "drpy_js_快看","name": "☀️快看[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/快看.js"},
+{"key": "drpy_js_有声小说吧","name": "☀️有声小说吧[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/有声小说吧.js"},
 {"key": "drpy_js_酷云77","name": "☀️酷云77[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/酷云77.js"},
 {"key": "drpy_js_AGE动漫","name": "☀️AGE动漫[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/AGE动漫.js"},
 {"key": "drpy_js_短视频","name": "☀️短视频[DRPY]","type": 3,"api": "https://suanjin.github.io/main/js/lib/drpy.js","ext": "https://suanjin.github.io/main/js/jss/短视频.js"},
