@@ -32,7 +32,6 @@
 {"key" : "drpy_js_百忙无果","name" : "🌼芒果视频[DRPY]","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/百忙无果.js"},
 {"key":"儿童","name":"🌼儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/儿童乐园.json"},
 {"key":"dr_兔小贝","name":"🌼兔小贝","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"学习","name":"🌼学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/学习园地.json"},
 //{"key":"9E03","name":"☀️9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //{"key":"csp_CZSPP","name":"☀️厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🌼低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -65,6 +64,21 @@
 {"key":"csp_xpath_bttwoo","name":"🌼两个BTT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/bttwoo.json"},
 {"key":"csp_Yj1211","name":"🌼直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
+##Bili系列
+{"key": "学习课堂","name": "🌼哔哩┃学习课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/学习课堂.json"},
+{"key": "空中课堂","name": "🌼哔哩┃空中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/空中课堂.json"},
+{"key": "小学课堂","name": "🌼哔哩┃小学课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/小学课堂.json"},
+{"key": "初中课堂","name": "🌼哔哩┃初中课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/初中课堂.json"},
+{"key": "高中课堂","name": "🌼哔哩┃高中课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/高中课堂.json"},
+{"key": "少儿教育","name": "🌼哔哩┃少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/少儿教育.json"},
+{"key": "戏曲杂苑","name": "🌼哔哩┃戏曲杂苑","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/戏曲杂苑.json"},
+{"key": "相声小品","name": "🌼哔哩┃相声小品","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/相声小品.json"},
+{"key": "女团热舞","name": "🌼哔哩┃女团热舞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/女团热舞.json"},
+{"key": "体育赛事","name": "🌼哔哩┃体育赛事","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/体育赛事.json"},
+{"key": "美食合集","name": "🌼哔哩┃美食合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/美食天地.json"},
+{"key": "音乐演唱","name": "🌼哔哩┃音乐演唱","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/音乐演唱.json"},
+{"key": "Bili","name": "🌼哔哩┃视频合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/哔哩.json"}, 
+ 
 ##py系列
 {"key":"py_douban","name":"🌼豆瓣影视┃PY","type":3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_douban.py"},
 {"key":"py_cctv","name":"🌼央视自选┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_cctv.py"},
@@ -184,12 +198,7 @@
 
 
 {"key": "csp_XYQBiu_凌云ys","name": "🌼凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://suanjin.github.io/main/MaooXP/凌云影视.json"},
-{"key":"音乐","name":"🌼音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/音乐现场.json"},
-{"key":"热舞","name":"🌼女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/女团热舞.json"},
-{"key":"戏曲","name":"🌼戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/戏曲合集.json"},
-{"key":"csp_BBB","name":"🌼哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/哔哩套餐.json"},
-{"key":"软件","name":"🌼软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/软件教程.json"},
-{"key":"csp_XYQHiker","name":"🌼冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/MaooXB2/冷曦.json","jar":"https://suanjin.github.io/TVJAR/XYQPlugin_0915.jar;md5;29a1e2b51c44f3f87c06500e55802ff4"},
+{{"key":"csp_XYQHiker","name":"🌼冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/MaooXB2/冷曦.json","jar":"https://suanjin.github.io/TVJAR/XYQPlugin_0915.jar;md5;29a1e2b51c44f3f87c06500e55802ff4"},
 
 
 ##官系列
