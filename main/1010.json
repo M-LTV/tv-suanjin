@@ -96,7 +96,6 @@
 {"key" : "drpy_js_蛋蛋赞","name" : "🌼JS┃蛋蛋赞","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/蛋蛋赞.js"},
 {"key" : "drpy_js_TV蜂","name" : "🌼JS┃TV蜂","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/TV蜂.js"},
 {"key" : "drpy_js_真不卡","name" : "🌼JS┃真不卡","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/真不卡.js"},
-{"key" : "drpy_js_海兔影院","name" : "🌼JS┃海兔影院","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/海兔影院.js"},
 {"key" : "drpy_js_追剧啦","name" : "🌼JS┃追剧啦","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/追剧啦.js"},
 {"key" : "drpy_js_起飞影院","name" : "🌼JS┃起飞影院","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/起飞影院.js"},
 {"key" : "drpy_js_HDmoli","name" : "🌼JS┃HDmoli","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/HDmoli.js"},
@@ -166,6 +165,7 @@
 //{"key" : "drpy_js_爱迪影视","name" : "🌼JS┃爱迪影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/爱迪影视.js"},
 //{"key" : "drpy_js_KUBO影视","name" : "🌼JS┃KUBO影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/KUBO影视.js"},
 //{"key" : "drpy_js_唐人街影视","name" : "🌼JS┃唐人街影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/唐人街影视.js"},
+//{"key" : "drpy_js_海兔影院","name" : "🌼JS┃海兔影院","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.ym.js","ext" : "https://suanjin.github.io/main/JS/js/海兔影院.js"},
 
 
 {"key": "csp_XYQBiu_凌云ys","name": "🌼XYQ┃凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://suanjin.github.io/main/MaooXP/凌云影视.json"},
