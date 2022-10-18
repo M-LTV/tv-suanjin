@@ -80,7 +80,7 @@
 {"key": "Bili","name": "🌼哔哩┃视频合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/哔哩.json"}, 
  
 
-##DRPY系列
+##DRPY道长版系列
 {"key" : "drpy_js_360影视","name" : "🌼JS┃360影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/360影视.js"},
 {"key" : "drpy_js_低端","name" : "🌼JS┃低端","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/ddys.js"},
 {"key" : "drpy_js_快看","name" : "🌼JS┃快看","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/快看.js"},
