@@ -114,7 +114,7 @@
 {"key": "py_yiso","name": "🌼PY┃易搜源","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_yiso.py"},
 {"key": "py_douyu","name": "🌼PY┃斗鱼直播","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_douyu.py"},
  
-##DRPY系列
+##DRPY道长版系列
 {"key" : "drpy_js_360影视","name" : "🌼JS┃360影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/360影视.js"},
 {"key" : "drpy_js_低端","name" : "🌼JS┃低端","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/ddys.js"},
 {"key" : "drpy_js_快看","name" : "🌼JS┃快看","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/快看.js"},
