@@ -146,6 +146,8 @@
 {"key" : "drpy_js_TV云播","name" : "🌼JS┃TV云播","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/TV云播.js"},
 {"key" : "drpy_js_两个BT","name" : "🌼JS┃两个BT","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/两个BT.js"},
 {"key" : "drpy_js_乐猪TV","name" : "🌼JS┃乐猪TV","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/乐猪TV.js"},
+{"key" : "drpy_js_JustLive","name" : "🌼JS┃JustLive","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/JustLive.js"},
+{"key" : "drpy_js_vidhub","name" : "🌼JS┃vidhub","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/vidhub.js"},
 {"key" : "drpy_js_剧荒","name" : "🌼JS┃剧荒","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/剧荒.js"},
 {"key" : "drpy_js_剧迷","name" : "🌼JS┃剧迷","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/剧迷.js"},
 {"key" : "drpy_js_大师兄影视","name" : "🌼JS┃大师兄影视","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/大师兄影视.js"},
