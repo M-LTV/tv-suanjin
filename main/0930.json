@@ -52,7 +52,7 @@
 {"key":"csp_Zxzj","name":"💦SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://suanjin.github.io/TVJAR/Yoursmile.jar;md5;D7FF967B08194FE72BA0BFC04AF97361"},
 {"key":"csp_剧荒","name":"💦SP┃剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"💦SP┃两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"💦SP┃小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/MaooXB2/alitoken.json"},
+{"key":"Gitcafe","name":"💦SP┃小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/MaooXB2/alitoken.json","jar":"https://suanjin.github.io/TVJAR/Yoursmile.jar;md5;D7FF967B08194FE72BA0BFC04AF97361"},
 {"key": "csp_XYQBiu_聚合短视频","name":"💦SP┃聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXP/聚合短视频.js"},
 {"key":"mjxq_spider","name":"💦SP┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"💦SP┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
