@@ -83,7 +83,7 @@
 {"key":"py_douban","name":"💦PY┃豆瓣影视","type":3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_douban.py"},
 {"key":"py_cctv","name":"💦PY┃央视自选","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_cctv.py"},
 {"key":"py_cctv_full","name":"💦PY┃央视大全","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_cctv_full.py"},
-{"key": "py_cctv1","name": "💦PY┃央视","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/cctv/py_cctv.py"}, 
+{"key": "py_cctv1","name": "💦PY┃央视","type": 3,"api": "py_cctv1","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/cctv/py_cctv1.py"}, 
 {"key":"py_bilimd","name":"💦PY┃哔哩影视","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_bilimd.py"},
 {"key":"py_kunyu77","name":"💦PY┃酷云77","type":3,"api":"py_kunyu77","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_kunyu77.py"},
 {"key": "py_lezhu","name": "💦PY┃乐猪影视源","type": 3,"api": "py_lezhu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_lezhu.py"},
