@@ -792,11 +792,11 @@
 
 ##搜索系列
 {"key":"csp_bendi","name":"📂本地文件","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
-{"key":"Yisou","name":"💦易搜(仅支持搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/token.txt"},
-{"key":"Alips","name":"💦盘搜(仅支持搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/token.txt"},
-{"key":"Zhaozy","name":"💦找资源(仅支持搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/token.txt"},
-{"key":"Upyunso","name":"💦云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/token.txt"},
-{"key":"push_agent","name":"💦推送(仅支持阿里推送/磁力推送)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/token.txt"},
+{"key":"Yisou","name":"💦易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/alitoken.txt"},
+{"key":"Zhaozy","name":"💦找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/alitoken.txt"},
+{"key":"Upyunso","name":"💦Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/alitoken.txt"},
+{"key":"Alips","name":"💦Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/alitoken.txt"},
+{"key":"push_agent","name":"💦手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXB2/alitoken.txt"},
 {"key":"csp_xpath_cls","name":"💦磁力搜索(仅支持搜索)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/MaooXB2/MaooXB2/磁搜.json"},
 {"key":"cl_bdys","name":"💦哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://suanjin.github.io/main/MaooXB2/bdyscl.json"},
 {"key":"T4","name":"💦T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
