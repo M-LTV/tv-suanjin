@@ -116,6 +116,13 @@
             "ext" : "https://suanjin.github.io/main/JS/js/豆瓣.js"
         },
             {
+            "key" : "drpy_js_真不卡",
+            "name" : "💦JS┃真不卡",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/真不卡.js"
+        },
+            {
             "key" : "drpy_js_360影视",
             "name" : "💦JS┃360影视",
             "type" : 3,
@@ -163,6 +170,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/JRS看球网.js"
+        },
+            {
+            "key" : "drpy_js_哔哩直播",
+            "name" : "💦JS┃哔哩直播",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/哔哩直播.js"
         },
             {
             "key" : "drpy_js_310直播",
@@ -310,13 +324,6 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/唐人街影视.js"
-        },
-            {
-            "key" : "drpy_js_真不卡",
-            "name" : "💦JS┃真不卡",
-            "type" : 3,
-            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/真不卡.js"
         },
             {
             "key" : "drpy_js_素白白",
@@ -730,6 +737,20 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/AGE动漫.js"
+        },
+            {
+            "key" : "drpy_js_omofun动漫",
+            "name" : "💦JS┃omofun动漫",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/omofun动漫.js"
+        },
+            {
+            "key" : "drpy_js_异世界动漫",
+            "name" : "💦JS┃异世界动漫",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/异世界动漫.js"
         },
 
 {"key": "drpy_js_猫了个咪","name": "💦JS┃猫了个咪","type": 3,"api": "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext": "https://suanjin.github.io/main/JS/js/猫了个咪.js"},
