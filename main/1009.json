@@ -114,6 +114,20 @@
             "ext" : "https://suanjin.github.io/main/JS/js/酷奇MV.js"
         },
             {
+            "key" : "drpy_js_爱车MV",
+            "name" : "💦JS┃爱车MV",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/爱车MV.js"
+        },
+            {
+            "key" : "drpy_js_JRKAN直播",
+            "name" : "💦JS┃JRKAN直播",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/JRKAN直播.js"
+        },
+            {
             "key" : "drpy_js_JRS看直播",
             "name" : "💦JS┃JRS看直播",
             "type" : 3,
@@ -714,6 +728,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/秋霞.js"
+        },
+            {
+            "key" : "drpy_js_有声小说吧",
+            "name" : "💦JS┃有声小说吧",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/有声小说吧.js"
         },
             {
             "key" : "drpy_js_兔小贝",
