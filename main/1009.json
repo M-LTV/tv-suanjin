@@ -17,7 +17,7 @@
 "sites":[
 //{"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://suanjin.github.io/TVJAR/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0"},
 {"key":"csp_77","name":"💦SP┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"💦SP┃图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_AppTT","name":"💦SP┃图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💦SP┃哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"💦SP┃快看影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💦SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -69,7 +69,7 @@
 {"key": "美食合集","name": "💦哔哩┃美食合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/美食天地.json"},
 {"key": "音乐演唱","name": "💦哔哩┃音乐演唱","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/音乐演唱.json"},
 {"key": "Bili","name": "💦哔哩┃视频合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/哔哩.json"}, 
-
+ 
 ##DRPY道长版系列
             {
             "key" : "drpy_js_豆瓣",
@@ -107,11 +107,11 @@
             "ext" : "https://suanjin.github.io/main/JS/js/菜狗.js"
         },
             {
-            "key" : "drpy_js_gaze",
-            "name" : "💦JS┃gaze",
+            "key" : "drpy_js_酷奇MV",
+            "name" : "💦JS┃酷奇MV",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/gaze.js"
+            "ext" : "https://suanjin.github.io/main/JS/js/酷奇MV.js"
         },
             {
             "key" : "drpy_js_JRS看直播",
@@ -135,13 +135,6 @@
             "ext" : "https://suanjin.github.io/main/JS/js/JRS看球网.js"
         },
             {
-            "key" : "drpy_js_哔哩直播",
-            "name" : "💦JS┃哔哩直播",
-            "type" : 3,
-            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/哔哩直播.js"
-        },
-            {
             "key" : "drpy_js_310直播",
             "name" : "💦JS┃310直播",
             "type" : 3,
@@ -154,6 +147,20 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/抓饭体育.js"
+        },
+            {
+            "key" : "drpy_js_比赛录像",
+            "name" : "💦JS┃比赛录像",
+            "type" : 3,
+            "api" : "assets://js/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/比赛录像.js"
+        },
+            {
+            "key" : "drpy_js_荐片",
+            "name" : "💦JS┃荐片",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/荐片.js"
         },
             {
             "key" : "drpy_js_星辰",
@@ -217,6 +224,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/追剧啦.js"
+        },
+            {
+            "key" : "drpy_js_追剧达人",
+            "name" : "💦JS┃追剧达人",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/追剧达人.js"
         },
             {
             "key" : "drpy_js_起飞影院",
@@ -322,6 +336,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/爱迪影视.js"
+        },
+            {
+            "key" : "drpy_js_冲TMTV[飞]",
+            "name" : "💦JS┃冲TMTV[飞]",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/冲TMTV[飞].js"
         },
             {
             "key" : "drpy_js_KUBO影视[飞]",
@@ -674,8 +695,22 @@
             "ext" : "https://suanjin.github.io/main/JS/js/麦豆com.js"
         },
             {
+            "key" : "drpy_js_Fun4K",
+            "name" : "💦JS┃Fun4K",
+            "type" : 3,
+            "api" : "assets://js/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/Fun4K.js"
+        },
+            {
+            "key" : "drpy_js_gaze",
+            "name" : "💦JS┃gaze",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/gaze.js"
+        },
+            {
             "key" : "drpy_js_秋霞",
-            "name" : "💦JS┃秋霞-click",
+            "name" : "💦JS┃秋霞",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/秋霞.js"
