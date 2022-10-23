@@ -3,7 +3,7 @@
 
 {
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;3DE6C76C538EC7A472DB164F8BEFBFA3", 
-"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;F6ABD495EA859880F7E2D97010BAE00D", 
+"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
