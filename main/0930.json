@@ -87,7 +87,7 @@
 //{"key": "py_kuaikan","name": "💦PY┃快看影视源","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_kuaikan.py"},
 {"key": "py_czspp","name": "💦PY┃厂长资源","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_czspp.py"},
 {"key":"py_3qu","name":"💦PY┃快播影视","type":3,"api":"py_3qu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_3qu.py"},
-{"key": "py_gitcafe","name": "💦PY┃小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_gitcafe.py"},
+//{"key": "py_gitcafe","name": "💦PY┃小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://suanjin.github.io/main/py/ali/py_gitcafe.py"},
 {"key":"py_bilibili","name":"💦PY┃哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_bilibili.py"},
 {"key": "py_bilivd","name": "💦PY┃B站(带搜索)","type": 3,"api": "py_bilivd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://suanjin.github.io/main/py/py_bilivd.py"},
 {"key":"py_star","name":"💦PY┃星光影视","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_star.py"},
